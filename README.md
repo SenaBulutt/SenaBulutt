@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/format:webp/1*CmjmgiI3Sr6oByNZ81pkhQ.jpeg)
+![MasterHead](https://cdn.thenewstack.io/media/2022/07/a1c32382-gh.png)
 
 <h1 align="center">Hi 👋, I'm Sena Bulut</h1>
 <h3 align="center">AI & Data Engineering Student</h3>
