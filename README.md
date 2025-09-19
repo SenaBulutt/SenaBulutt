@@ -1,10 +1,8 @@
-![MasterHead](https://cdn.thenewstack.io/media/2022/07/a1c32382-gh.png)
+![MasterHead](https://miro.medium.com/v2/format:webp/1*CmjmgiI3Sr6oByNZ81pkhQ.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm Sena Bulut</h1>
 <h3 align="center">AI & Data Engineering Student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senabulutt&label=Profile%20views&color=0e75b6&style=flat" alt="senabulutt" /> </p>
 
 - 📫 How to reach me **senabulut291@gmail.com**
 
@@ -22,4 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senabulutt&show_icons=true&locale=en" alt="senabulutt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senabulutt&" alt="senabulutt" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senabulutt&label=Profile%20views&color=0e75b6&style=flat" alt="senabulutt" /> </p>
