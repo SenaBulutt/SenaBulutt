@@ -1,7 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGJ8vGQ_Smoow/profile-displaybackgroundimage-shrink_350_1400/B4DZly2XrgHYAY-/0/1758568479866?e=1761177600&v=beta&t=OBpaQAYKz7vyPWRpChVEOMFWy0y1oO14k9WUWEWkh_4)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFQWqGkSLyb1w/profile-displaybackgroundimage-shrink_350_1400/B4DZlzG70dG8AY-/0/1758572822299?e=1761177600&v=beta&t=-x1GoyWkOI5ZIG8H1LxxPe1rtvcec7VXilmVbXpFBb4)
 
-<h1 align="center">Hi 👋, I'm Sena Bulut</h1>
-<h3 align="center">AI & Data Engineering Student</h3>
+<h1 align="center">Hi , I'm Sena Bulut</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
