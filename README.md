@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/1*tbAhl58rTxnl6Sf_OTJcwA.jpeg)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGJ8vGQ_Smoow/profile-displaybackgroundimage-shrink_350_1400/B4DZly2XrgHYAY-/0/1758568479866?e=1761177600&v=beta&t=OBpaQAYKz7vyPWRpChVEOMFWy0y1oO14k9WUWEWkh_4)
 
 <h1 align="center">Hi 👋, I'm Sena Bulut</h1>
 <h3 align="center">AI & Data Engineering Student</h3>
